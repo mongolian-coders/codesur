@@ -1,8 +1,8 @@
 module.exports = {
   title: 'КодСур',
   tagline: 'Гэрээсээ дэлхийд ажиллацгаая',
-  url: '',
-  baseUrl: '/',
+  url: 'https://mongolian-coders.github.io',
+  baseUrl: '/codesur/',
   favicon: 'img/favicon.ico',
   organizationName: 'mongolian-coders',
   projectName: 'codesur',
