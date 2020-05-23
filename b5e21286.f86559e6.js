@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{117:function(o){o.exports=JSON.parse('{"allTagsPath":"/codesur/blog/tags","slug":"\u04af\u0439\u043b-\u044f\u0432\u0434\u0430\u043b","name":"\u04af\u0439\u043b \u044f\u0432\u0434\u0430\u043b","count":1,"permalink":"/codesur/blog/tags/\u04af\u0439\u043b-\u044f\u0432\u0434\u0430\u043b"}')}}]);
